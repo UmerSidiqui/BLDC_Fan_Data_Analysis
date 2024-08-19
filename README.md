@@ -7,14 +7,14 @@ This project demonstrates the analysis of BLDC (Brushless Direct Current) fan da
 Dataset Overview
 The dataset includes the following features:
 
-year: Year of the observation
-month: Month of the observation
-day: Day of the observation
-hour: Hour of the observation
-minutes: Minute of the observation
-temperature: Temperature reading at the time of observation
-humidity: Humidity reading at the time of observation
-The target variable is new_speed, representing the speed of the BLDC fan.
+year: Year of the observation ||
+month: Month of the observation ||
+day: Day of the observation ||
+hour: Hour of the observation ||
+minutes: Minute of the observation ||
+temperature: Temperature reading at the time of observation ||
+humidity: Humidity reading at the time of observation ||
+The target variable is new_speed, representing the speed of the BLDC fan. ||
 
 Model Summary
 A Sequential Artificial Neural Network (ANN) model was built using TensorFlow/Keras. The model consists of:
